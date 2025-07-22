@@ -35,7 +35,7 @@ for (var i = 0; i < 3; i++) {
 
   // create img inside col
   var myImage = document.createElement("img");
-  myImage.setAttribute("src", "images/img1.jpg");
+  myImage.setAttribute("src", "images/img6.jpg");
   myImage.setAttribute("class", "w-100 mb-4");
 
   cols.append(myImage, h2);
